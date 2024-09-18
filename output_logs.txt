@@ -1,0 +1,6 @@
+Log from logfile.txt: 2024-09-01 10:30:45 INFO Starting system
+Log from logfile.txt: 2024-09-01 10:31:00 ERROR Failed to initialize module
+Log from logfile.txt: 2024-09-01 10:32:15 INFO Module loaded successfully
+Log from logfile2.txt: 2024-09-02 11:00:00 INFO Backup started
+Log from logfile2.txt: 2024-09-02 11:15:30 WARN Backup taking longer than expected
+Log from logfile2.txt: 2024-09-02 11:45:15 INFO Backup completed
